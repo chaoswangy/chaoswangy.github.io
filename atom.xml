@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaoswangy.github.io</id>
     <title>Chaos Wang</title>
-    <updated>2020-09-25T10:30:46.543Z</updated>
+    <updated>2020-09-25T20:18:59.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaoswangy.github.io"/>
     <link rel="self" href="https://chaoswangy.github.io/atom.xml"/>
@@ -11,12 +11,28 @@
     <icon>https://chaoswangy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Chaos Wang</rights>
     <entry>
-        <title type="html"><![CDATA[求职日记（2）]]></title>
-        <id>https://chaoswangy.github.io/post/job2/</id>
-        <link href="https://chaoswangy.github.io/post/job2/">
+        <title type="html"><![CDATA[我和春物]]></title>
+        <id>https://chaoswangy.github.io/post/youth/</id>
+        <link href="https://chaoswangy.github.io/post/youth/">
         </link>
-        <updated>2020-09-25T10:14:35.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
+        <updated>2020-09-25T20:12:46.000Z</updated>
+        <content type="html"><![CDATA[<p>先开一个坑，今天春物完结。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[梦醒后，为什么我眼眶会湿润]]></title>
+        <id>https://chaoswangy.github.io/post/dream1/</id>
+        <link href="https://chaoswangy.github.io/post/dream1/">
+        </link>
+        <updated>2020-09-25T19:21:48.000Z</updated>
+        <content type="html"><![CDATA[<p>耳边响起了舍友闹钟的声音，头脑开始逐渐清醒。<br>
+醒来的瞬间意识到那只是梦境，始终我不是被梦中那个女孩所叫醒，内心有着些许的遗憾。<br>
+在梦中，那个女孩一次又一次掀起被子然后盖下来叫醒我。但是她不能叫醒一个装睡的人，我和她都在享受着这个过程。<br>
+我在装睡，她知道我在装睡。但是我们都没有打破这片和平，都在享受着片刻的甜美。<br>
+然而，梦总有醒来的一天，梦中的美好只是自己的想象，这有时候会让我倍感失落。<br>
+但醒来的时候又有种治愈的感觉，似乎又找到当时前行的动力以及努力的方向。<br>
+有时候，真想回到过去，我的成长太过缓慢，我很后悔很多东西，后悔自己的没有勇气，后悔自己不敢去追寻自己想要的东西，后悔成为现在的自己。但是，当梦醒后，这一切似乎都淡化了，自己仿佛又回到那个有所期待、想要前行的时候。<br>
+想到自己还憧憬着一些东西，就不会有了太多颓丧。</p>
 ]]></content>
     </entry>
     <entry>
