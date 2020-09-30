@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaoswangy.github.io</id>
     <title>Chaos Wang</title>
-    <updated>2020-09-26T09:21:32.237Z</updated>
+    <updated>2020-09-30T03:23:16.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaoswangy.github.io"/>
     <link rel="self" href="https://chaoswangy.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://chaoswangy.github.io/images/avatar.png</logo>
     <icon>https://chaoswangy.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Chaos Wang</rights>
+    <entry>
+        <title type="html"><![CDATA[求职日记（2）——转变方向]]></title>
+        <id>https://chaoswangy.github.io/post/job2/</id>
+        <link href="https://chaoswangy.github.io/post/job2/">
+        </link>
+        <updated>2020-09-30T02:39:06.000Z</updated>
+        <content type="html"><![CDATA[<p>是啥时候想开始做游戏策划的呢？<br>
+我一直是个贪玩的人，一直很想参与到制作游戏中来。暑期实习便想做游戏策划的方面，但是因为一系列原因都没有敢去尝试。刷题、算法等方面和其他人比起来没有优势，那我什么地方有优势呢？似乎在我身上找不到任何一个明显的能让我得到offer的优势。<br>
+那就做自己认为想做的事吧，即便是装作努力自己也不会太反感。<br>
+我开始转变方向，开始想要去加入自己喜欢的游戏行业。<br>
+首先先准备一份勉强能看的简历，在好友（特别鸣谢渤哥和杲子哥）的帮助下，我完成了一份至少看起来还算可以的简历，然后就是鼓起勇气把这份简历投递出去。第一次投递简历和面试的结局都是非常失败的，现在我有了一点心理阴影。当迈出这一步的时候，竟感觉有一点释然，也有一点紧张。之后选择了几家看起来还不错的公司投递，然后等待笔试。<br>
+虽然，对于我这样的人来说，加入游戏公司并不是一个好选择。我的毕设、课程所学等和我想要做的工作几乎没有关系，但是如果现在还在犹豫的话，那估计就真的只能等春招了，好歹尝试一下吧。<br>
+希望我之后的笔试和面试能够顺利，我还要学习很多东西。<br>
+谁不想自己当那个勇者，跋山涉水去战胜恶龙呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[我和春物]]></title>
         <id>https://chaoswangy.github.io/post/youth/</id>
@@ -36,7 +52,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[求职日记（1）]]></title>
+        <title type="html"><![CDATA[求职日记（1）——电信面试]]></title>
         <id>https://chaoswangy.github.io/post/job1/</id>
         <link href="https://chaoswangy.github.io/post/job1/">
         </link>
