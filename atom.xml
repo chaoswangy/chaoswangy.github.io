@@ -1,29 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaoswangy.github.io</id>
-    <title>Chaos Wang</title>
-    <updated>2020-09-30T03:23:16.684Z</updated>
+    <title>Chaos Wang的个人博客</title>
+    <updated>2020-11-07T16:29:28.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaoswangy.github.io"/>
     <link rel="self" href="https://chaoswangy.github.io/atom.xml"/>
-    <subtitle>云山如昨好</subtitle>
+    <subtitle>有人住高楼，有人在深沟，有人光万丈，有人一身锈。
+世人千万种，浮云莫强求，斯人若彩虹，遇上方知有。</subtitle>
     <logo>https://chaoswangy.github.io/images/avatar.png</logo>
     <icon>https://chaoswangy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Chaos Wang</rights>
+    <rights>All rights reserved 2020, Chaos Wang的个人博客</rights>
     <entry>
-        <title type="html"><![CDATA[求职日记（2）——转变方向]]></title>
+        <title type="html"><![CDATA[求职日记（3）——部分公司笔试，至少请给我一次机会]]></title>
+        <id>https://chaoswangy.github.io/post/job3/</id>
+        <link href="https://chaoswangy.github.io/post/job3/">
+        </link>
+        <updated>2020-11-07T10:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>国庆前投了几个公司，本来以为国庆过后能陆续收到笔试邮件。</p>
+<p>或许是公司的岗位已经招满了，或许是因为我没有实习或者简历不够出众。<br>
+国庆后的很长一段时间内我只收到了两个笔试。<br>
+直到现在我收到的笔试也寥寥无几，有些公司是内推了就能做笔试的，所以要在一大堆人中脱颖而出，真的很难。有些公司内推了也不一定给你笔试（点名米哈游），还有一些事因为岗位已经招满的了。所以真的很难。</p>
+<p>我的秋招用完全失败来形容一点都不过分。<br>
+总的来说还是因为准备的太晚，投递的太晚。<br>
+总是想着之后还有时间，总是觉得之后自己能以一种更好的姿态去面对这些事，然后又总是将现在应该做的努力一直拖延下去。所以一直想准备好再去做，但是却一直没有准备好。<br>
+当意识到再不投递就没有机会了，才开始想着没有准备好也去尝试下吧。<br>
+尝试的结果无疑是很失败的，因为简历投递的太晚，笔试收到的不多，面试也只收到字节的，感觉还很水。知道现在认识到了自己的一些问题，能够进行改进。<br>
+至少，踏出了那一步。<br>
+那么接下来就只剩继续努力向前走了。</p>
+<p>剩下就简单写一下笔试的题型了：<br>
+1.行测题：数列、计算、找规律、图形、推导等。有的比较耗时间，还有一些运气成分。（lilith笔试）<br>
+2.常识题：游戏界各种常识，甚至有些要上知天文、下知地理、古今中外（字节），或者就是游戏界的一些常识吧，我这方面的能力还需要提高。<br>
+3.概率题：概率论的一些基本题型，数学期望啥的，我做的还行。<br>
+4.其他数值题：一些游戏数值，让你平衡啊，计算啊啥的，一般也不会很难，或者就是让你设计一些公式曲线啥的（氪金，微氪，无氪等实力增长曲线之类）<br>
+5.分析设计题：很常见的分析某款游戏的优缺点、怎么改进、简单介绍、玩法系统之类的，还有就是要你设计关卡，设计技能，设计节日活动啊之类的东西。<br>
+6.职业规划题：一些职业规划的选择，我觉得主要看你对这一行的兴趣之类的吧，我做的挺真诚的。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生日——我真的好喜欢你]]></title>
+        <id>https://chaoswangy.github.io/post/birth/</id>
+        <link href="https://chaoswangy.github.io/post/birth/">
+        </link>
+        <updated>2020-10-21T15:25:17.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[you are romantic as the star——告白的峰回路转]]></title>
+        <id>https://chaoswangy.github.io/post/love1/</id>
+        <link href="https://chaoswangy.github.io/post/love1/">
+        </link>
+        <updated>2020-10-19T03:24:00.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求职日记（4）——字节一面，如果能够尽早发现问题]]></title>
+        <id>https://chaoswangy.github.io/post/job4/</id>
+        <link href="https://chaoswangy.github.io/post/job4/">
+        </link>
+        <updated>2020-10-16T07:40:39.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[求职日记（2）——转变方向，我一直是一个理想主义者]]></title>
         <id>https://chaoswangy.github.io/post/job2/</id>
         <link href="https://chaoswangy.github.io/post/job2/">
         </link>
         <updated>2020-09-30T02:39:06.000Z</updated>
         <content type="html"><![CDATA[<p>是啥时候想开始做游戏策划的呢？<br>
-我一直是个贪玩的人，一直很想参与到制作游戏中来。暑期实习便想做游戏策划的方面，但是因为一系列原因都没有敢去尝试。刷题、算法等方面和其他人比起来没有优势，那我什么地方有优势呢？似乎在我身上找不到任何一个明显的能让我得到offer的优势。<br>
-那就做自己认为想做的事吧，即便是装作努力自己也不会太反感。<br>
-我开始转变方向，开始想要去加入自己喜欢的游戏行业。<br>
+我一直是个贪玩的人，一直很想参与到制作游戏中来。暑期实习便想做游戏策划的方面，但是因为一系列原因都没有敢去尝试。刷题、算法等方面和其他人比起来没有优势，那我什么地方有优势呢？似乎在我身上找不到任何一个明显的能让我得到offer的优势。</p>
+<p>那就做自己认为想做的事吧，即便是装作努力自己也不会太反感。</p>
+<p>我开始转变方向，开始想要去加入自己喜欢的游戏行业。<br>
 首先先准备一份勉强能看的简历，在好友（特别鸣谢渤哥和杲子哥）的帮助下，我完成了一份至少看起来还算可以的简历，然后就是鼓起勇气把这份简历投递出去。第一次投递简历和面试的结局都是非常失败的，现在我有了一点心理阴影。当迈出这一步的时候，竟感觉有一点释然，也有一点紧张。之后选择了几家看起来还不错的公司投递，然后等待笔试。<br>
 虽然，对于我这样的人来说，加入游戏公司并不是一个好选择。我的毕设、课程所学等和我想要做的工作几乎没有关系，但是如果现在还在犹豫的话，那估计就真的只能等春招了，好歹尝试一下吧。<br>
-希望我之后的笔试和面试能够顺利，我还要学习很多东西。<br>
-谁不想自己当那个勇者，跋山涉水去战胜恶龙呢？</p>
+希望我之后的笔试和面试能够顺利，我还要学习很多东西。</p>
+<p>谁不想自己当那个勇者，跋山涉水去战胜恶龙呢？</p>
 ]]></content>
     </entry>
     <entry>
@@ -52,7 +106,7 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[求职日记（1）——电信面试]]></title>
+        <title type="html"><![CDATA[求职日记（1）——电信面试，开始的地方]]></title>
         <id>https://chaoswangy.github.io/post/job1/</id>
         <link href="https://chaoswangy.github.io/post/job1/">
         </link>
@@ -78,14 +132,14 @@
 <p>然后我瞟见左边有几张纸写着算法工程师什么的，我真的想收回最开始说的大数据的话。</p>
 <p>然后面试官指导我几句，开始问我做过什么实践吗？我问什么类型的，他说大数据方面的，我又开始沉默了。</p>
 <p>之后就是面试官的教导，面试公司先要了解一下公司，不要莽撞地去投，然后要把学习的东西转化为什么什么的，我的脑子里满是羞愧以及后悔甚至还有一丝生气，我不知道我在生气什么，就感觉很多东西不像自己说出来的话，感觉面试官很和蔼，但是我的表现真的比非常糟糕还低很多档次。</p>
-<p>“就到这里结束吧。”伴随着这句话，我起身，冲出了教师，甚至忘了感谢面试官，穿过人群拿起书包然后溜走。我不想让认识的人看到我为什么进去马上就出来，我后面那个老哥估计也有些纳闷。</p>
+<p>“就到这里结束吧。”伴随着这句话，我起身，冲出了教室，甚至忘了感谢面试官，穿过人群拿起书包然后溜走。我不想让认识的人看到我为什么进去马上就出来，我后面那个老哥估计也有些纳闷。</p>
 <p>现在想来，真的没想到自己会表现差到这地步，想生自己的闷气但是也无济于事，有时候只能自嘲。</p>
 <p>害怕着失败，所以不敢尝试，尝试后的失败便又加剧着这种恐惧。为什么别人轻描淡写就能做到的东西我要付出很多还不能简单地完成它。</p>
 <p>不知道还能不能鼓起勇气有下一次。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于我自己]]></title>
+        <title type="html"><![CDATA[关于我自己，一个没有知识的理想主义者]]></title>
         <id>https://chaoswangy.github.io/post/about/</id>
         <link href="https://chaoswangy.github.io/post/about/">
         </link>
