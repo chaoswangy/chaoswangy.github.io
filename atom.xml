@@ -2,15 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaoswangy.github.io</id>
     <title>Chaos Wang的个人博客</title>
-    <updated>2020-11-07T16:39:27.831Z</updated>
+    <updated>2021-03-05T03:48:27.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaoswangy.github.io"/>
     <link rel="self" href="https://chaoswangy.github.io/atom.xml"/>
-    <subtitle>有人住高楼，有人在深沟，有人光万丈，有人一身锈。
-世人千万种，浮云莫强求，斯人若彩虹，遇上方知有。</subtitle>
+    <subtitle>即使前方没有恶龙，也请不要放下手中的剑。</subtitle>
     <logo>https://chaoswangy.github.io/images/avatar.png</logo>
     <icon>https://chaoswangy.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Chaos Wang的个人博客</rights>
+    <rights>All rights reserved 2021, Chaos Wang的个人博客</rights>
     <entry>
         <title type="html"><![CDATA[求职日记（3）——部分公司笔试，至少请给我一次机会]]></title>
         <id>https://chaoswangy.github.io/post/job3/</id>
@@ -20,7 +19,7 @@
         <content type="html"><![CDATA[<p>国庆前投了几个公司，本来以为国庆过后能陆续收到笔试邮件。</p>
 <p>或许是公司的岗位已经招满了，或许是因为我没有实习或者简历不够出众。<br>
 国庆后的很长一段时间内我只收到了两个笔试。<br>
-直到现在我收到的笔试也寥寥无几，有些公司是内推了就能做笔试的，所以要在一大堆人中脱颖而出，真的很难。有些公司内推了也不一定给你笔试（点名米哈游），还有一些是因为岗位已经招满的了。所以真的很难。</p>
+直到现在我收到的笔试也寥寥无几，有些公司是内推了就能做笔试的，所以要在一大堆人中脱颖而出，真的很难。有些公司内推了也不一定给你笔试，还有一些是因为岗位已经招满的了。所以真的很难。</p>
 <p>我的秋招用完全失败来形容一点都不过分。<br>
 总的来说还是因为准备的太晚，投递的太晚。<br>
 总是想着之后还有时间，总是觉得之后自己能以一种更好的姿态去面对这些事，然后又总是将现在应该做的努力一直拖延下去。所以一直想准备好再去做，但是却一直没有准备好。<br>
@@ -34,29 +33,12 @@
 3.概率题：概率论的一些基本题型，数学期望啥的，我做的还行。<br>
 4.其他数值题：一些游戏数值，让你平衡啊，计算啊啥的，一般也不会很难，或者就是让你设计一些公式曲线啥的（氪金，微氪，无氪等实力增长曲线之类）<br>
 5.分析设计题：很常见的分析某款游戏的优缺点、怎么改进、简单介绍、玩法系统之类的，还有就是要你设计关卡，设计技能，设计节日活动啊之类的东西。<br>
-6.职业规划题：一些职业规划的选择，我觉得主要看你对这一行的兴趣之类的吧，我做的比较真诚。</p>
+6.职业规划题：一些职业规划的选择，我觉得主要看你对这一行的兴趣之类的吧，我做的比较真诚。<br>
+7.米哈游的是叫你设计一个demo，就离谱。</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[生日——我真的好喜欢你]]></title>
-        <id>https://chaoswangy.github.io/post/birth/</id>
-        <link href="https://chaoswangy.github.io/post/birth/">
-        </link>
-        <updated>2020-10-21T15:25:17.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[you are romantic as the star——告白的峰回路转]]></title>
-        <id>https://chaoswangy.github.io/post/love1/</id>
-        <link href="https://chaoswangy.github.io/post/love1/">
-        </link>
-        <updated>2020-10-19T03:24:00.000Z</updated>
-        <content type="html"><![CDATA[<p>test</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[求职日记（4）——字节一面，如果能够尽早发现问题]]></title>
+        <title type="html"><![CDATA[求职日记（4）——部分公司面试，如果能够尽早发现问题]]></title>
         <id>https://chaoswangy.github.io/post/job4/</id>
         <link href="https://chaoswangy.github.io/post/job4/">
         </link>
@@ -78,15 +60,6 @@
 虽然，对于我这样的人来说，加入游戏公司并不是一个好选择。我的毕设、课程所学等和我想要做的工作几乎没有关系，但是如果现在还在犹豫的话，那估计就真的只能等春招了，好歹尝试一下吧。<br>
 希望我之后的笔试和面试能够顺利，我还要学习很多东西。</p>
 <p>谁不想自己当那个勇者，跋山涉水去战胜恶龙呢？</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[我和春物]]></title>
-        <id>https://chaoswangy.github.io/post/youth/</id>
-        <link href="https://chaoswangy.github.io/post/youth/">
-        </link>
-        <updated>2020-09-25T20:12:46.000Z</updated>
-        <content type="html"><![CDATA[<p>先开一个坑，今天春物完结。</p>
 ]]></content>
     </entry>
     <entry>
@@ -139,12 +112,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[关于我自己，一个没有知识的理想主义者]]></title>
+        <title type="html"><![CDATA[我是一个怎样的人]]></title>
         <id>https://chaoswangy.github.io/post/about/</id>
         <link href="https://chaoswangy.github.io/post/about/">
         </link>
         <updated>2020-09-24T12:07:38.000Z</updated>
-        <content type="html"><![CDATA[<p>有时间认真写一下</p>
+        <content type="html"><![CDATA[<p>我对自己不甚了解。<br>
+我也无法知道自己在其他人眼中是以什么形象出现。<br>
+凭借着自己过去的印象与感知，我也无法清楚、全貌地认识我自己。<br>
+人类本身就是一种矛盾的生物，即便知道过往的经历以及凭借此经历推测的性格，但也无法借此推断出他面对某些事情的行为。<br>
+那为什么我还要写这篇文章？<br>
+或许是让自己更坚定某些信念，让未来的自己看到时能够反思，让现在的自己能产生进步的想法，以及<br>
+让想要认识我的人对我有更深一步的了解。</p>
 ]]></content>
     </entry>
 </feed>
