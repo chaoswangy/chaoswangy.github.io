@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chaoswangy.github.io</id>
+    <title>萌新萌新萌的个人博客</title>
+    <updated>2023-01-27T18:29:38.812Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chaoswangy.github.io"/>
+    <link rel="self" href="https://chaoswangy.github.io/atom.xml"/>
+    <subtitle>主要整理了一些个人高中时期的“创作”，包含诗歌、杂谈等。另外也收纳了一部分其他时期的作品。</subtitle>
+    <logo>https://chaoswangy.github.io/images/avatar.png</logo>
+    <icon>https://chaoswangy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 萌新萌新萌的个人博客</rights>
+    <entry>
+        <title type="html"><![CDATA[new]]></title>
+        <id>https://chaoswangy.github.io/post/new1/</id>
+        <link href="https://chaoswangy.github.io/post/new1/">
+        </link>
+        <updated>2023-01-27T18:21:39.000Z</updated>
+        <content type="html"><![CDATA[<p>text</p>
+]]></content>
+    </entry>
+</feed>
